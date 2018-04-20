@@ -1,0 +1,11 @@
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.deps.json
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.json
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.dev.json
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.dll
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.pdb
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csprojResolveAssemblyReference.cache
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csproj.CoreCompileInputs.cache
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfoInputs.cache
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfo.cs
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.dll
+D:\LogNoziroh\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.pdb
